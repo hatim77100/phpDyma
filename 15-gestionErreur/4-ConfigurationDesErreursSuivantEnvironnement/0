@@ -1,0 +1,5 @@
+[14-Jan-2023 17:16:20 UTC] PHP Warning:  Undefined variable $var in C:\Users\Hatim\Desktop\Dyma\PhpDyma\phpDyma\15-gestionErreur\4-ConfigurationDesErreursSuivantEnvironnement\index.php on line 7
+[14-Jan-2023 17:16:20 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in C:\Users\Hatim\Desktop\Dyma\PhpDyma\phpDyma\15-gestionErreur\4-ConfigurationDesErreursSuivantEnvironnement\index.php:7
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Hatim\Desktop\Dyma\PhpDyma\phpDyma\15-gestionErreur\4-ConfigurationDesErreursSuivantEnvironnement\index.php on line 7
