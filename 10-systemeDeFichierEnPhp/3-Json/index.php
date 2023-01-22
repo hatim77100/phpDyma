@@ -16,5 +16,7 @@ print_r($json);
 
 //on va mettre notre json dans un fichier
 file_put_contents(__dir__ . "./data2.json",$json)
+
+
 ?>
 </pre>
