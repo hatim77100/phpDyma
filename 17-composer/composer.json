@@ -1,0 +1,16 @@
+{
+    "name": "hatim/myproject",
+    "autoload": {
+        "psr-4": {
+            "Hatim\\Myproject\\": "src/"
+        }
+    },
+    "require": {
+        "symfony/error-handler": "^6.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "myproject\\":"src/"
+        }
+    }
+}
