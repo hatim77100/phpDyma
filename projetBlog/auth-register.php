@@ -94,7 +94,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         <div class="content">
             <div class="block p-20 form-container">
                 <h1> Inscription</h1>
-                <form action="/auth-register.php" , method="POST">
+                <form action="/auth-register.php" method="POST">
                     <div class="form-control">
                         <label for="firstname">Prénom</label>
                         <input type="text" name="firstname" id="firstname" value="<?= $firstname ?? '' ?>">
